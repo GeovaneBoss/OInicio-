@@ -17,3 +17,4 @@ if (pontos < 50) {
 }
 
 //Alteração para novo commit 
+// adicção para fazer a brand
