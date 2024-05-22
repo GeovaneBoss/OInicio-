@@ -13,5 +13,5 @@ if (pontos < 50) {
 } else if (pontos >= 150 && pontos < 200) {
     alert("JOGOU BEM");
 } else if (pontos >= 200) {
-    alert("JOGOU DEMAIS"); // salve
+    alert("JOGOU DEMAIS"); // salve, vai com calma que voce consegue. 
 }
